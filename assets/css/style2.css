@@ -137,7 +137,7 @@ img {
     margin-top: 1em;
   }
   #products {
-    grid-template-columns: auto;
+    grid-template-columns: auto auto;
     grid-column-gap: 1em;
   }
 }
